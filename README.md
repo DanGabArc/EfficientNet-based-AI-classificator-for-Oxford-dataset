@@ -7,3 +7,6 @@ This repository contains an image classification model based on EfficientNetB0 p
 The model achieves fast convergence, reaching ~95% validation accuracy in 6 epochs. Input images are resized to 224x224, and the architecture uses global average pooling followed by dense layers with L2 regularization.
 
 Usage is straightforward: prepare your dataset with train and valid folders, install dependencies, and run the training script.
+
+If you want to use or modify it, don't forget to download original dataset:
+https://www.kaggle.com/datasets/waseemalastal/the-oxford-flowers-102-dataset
