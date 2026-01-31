@@ -8,5 +8,5 @@ The model achieves fast convergence, reaching ~95% validation accuracy in 6 epoc
 
 Usage is straightforward: prepare your dataset with train and valid folders, install dependencies, and run the training script.
 
-If you want to use or modify it, don't forget to download original dataset:
+Don't forget to download original dataset and change folder pathes after download:
 https://www.kaggle.com/datasets/waseemalastal/the-oxford-flowers-102-dataset
